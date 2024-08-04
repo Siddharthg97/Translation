@@ -25,7 +25,9 @@ code implementation - https://colab.research.google.com/drive/1fsbzykS5ANEMVcn7g
    iii)If text contains multiple languages, then use split_lang. Refer link - https://github.com/DoodleBears/split-lang/blob/main/split-lang-demo.ipynb
 
 
-2)
+2) Model implementation
+
+3) 
    
 
 
