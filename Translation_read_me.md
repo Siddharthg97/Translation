@@ -10,8 +10,8 @@ Pre-requisites to run NLLB & NLLB code implementation -  https://medium.com/@Far
 code implementation - https://colab.research.google.com/drive/1fsbzykS5ANEMVcn7gtp8Wl7gkmRzbwOW?usp=sharing
 
 
-2) Google translator package <br />
-
+2) Google translator package - googletrans <br />
+   https://www.geeksforgeeks.org/language-translator-using-google-api-in-python/
 
 
 #### Steps to perform Text Translation <br />
