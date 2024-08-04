@@ -1,14 +1,16 @@
 ***Models to be used*** <br />
-1)No Language Left Behind (NLLB)   [developed by Meta] <br />
+ 1) No Language Left Behind (NLLB)   [developed by Meta] <br />
 
-The model was trained with input lengths not exceeding 512 tokens, therefore translating longer sequences might result in quality degradation. NLLB-200 translations can not be used as certified translations.
-Primary intended uses: NLLB-200 is a machine translation model primarily intended for research in machine translation, - especially for low-resource languages. It allows for single sentence translation among 200 languages.
-Information on how to - use the model can be found in Fairseq code repository along with the training code and references to evaluation and training data. <br />
-#### Note : Can handle only short input text becoz token size is 500. <br />
-
-Pre-requisites to run NLLB & NLLB code implementation -  https://medium.com/@FaridSharaf/text-translation-using-nllb-and-huggingface-tutorial-7e789e0f7816 <br />
-code implementation - https://colab.research.google.com/drive/1fsbzykS5ANEMVcn7gtp8Wl7gkmRzbwOW?usp=sharing
-
+   The model was trained with input lengths not exceeding 512 tokens, therefore translating longer sequences might result in quality degradation. NLLB-200 translations can not be used as 
+   certified 
+   translations.
+   Primary intended uses: NLLB-200 is a machine translation model primarily intended for research in machine translation, - especially for low-resource languages. It allows for single sentence 
+   translation among 200 languages.
+   Information on how to - use the model can be found in Fairseq code repository along with the training code and references to evaluation and training data. <br />
+   #### Note : Can handle only short input text becoz token size is 500. <br />
+   
+   Pre-requisites to run NLLB & NLLB code implementation -  https://medium.com/@FaridSharaf/text-translation-using-nllb-and-huggingface-tutorial-7e789e0f7816 <br />
+   code implementation - https://colab.research.google.com/drive/1fsbzykS5ANEMVcn7gtp8Wl7gkmRzbwOW?usp=sharing
 
 2) Google translator package - googletrans <br />
    https://www.geeksforgeeks.org/language-translator-using-google-api-in-python/
