@@ -14,7 +14,7 @@
 
 #### 2) Google translator package - googletrans <br />
    https://www.geeksforgeeks.org/language-translator-using-google-api-in-python/
-
+### 2) T5 Text to text translator - googletrans <br />
 
 #### Steps to perform Text Translation <br />
 
